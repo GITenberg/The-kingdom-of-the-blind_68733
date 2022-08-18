@@ -1,0 +1,31 @@
+_repo: The-kingdom-of-the-blind_68733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Long, Wesley
+    - Smith, George Oliver
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2022-08-12'
+identifiers:
+  gutenberg: '68733'
+language: en
+pgterms:marc905: 20220514111003smith
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Better Publications, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The kingdom of the blind
+url: http://www.gutenberg.org/ebooks/68733
